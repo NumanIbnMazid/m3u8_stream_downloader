@@ -1,0 +1,84 @@
+downloaded_stream/*.mp4
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest cache
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Django
+*.pyc
+*.sqlite3
+*.db
+__pycache__/
+media/
+
+# Environment variables
+.env
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor-specific files
+*~
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.bak
+*.tmp
+*.rej
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
